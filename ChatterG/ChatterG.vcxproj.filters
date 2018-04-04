@@ -30,9 +30,6 @@
     <ClInclude Include="ServerDefs.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="SocketG.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="InputProcessor.h">
       <Filter>Header Files</Filter>
     </ClInclude>
@@ -45,9 +42,6 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Server.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="SocketG.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="InputProcessor.cpp">
